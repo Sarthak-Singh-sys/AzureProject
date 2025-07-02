@@ -1,42 +1,42 @@
 [
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Calendar.csv",
+        "relative_url":"//AzureProject/refs/heads/main/Data/AdventureWorks_Calendar.csv",
         "filename": "AdventureWorks_Calendar.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Customers.csv",
+        "relative_url":"/AzureProject/brefs/heads/main/Data/AdventureWorks_Customers.csv",
         "filename": "AdventureWorks_Customers.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Product_Categories.csv",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
         "filename": "AdventureWorks_Product_Categories.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
         "filename": "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Returns.csv",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Returns.csv",
         "filename": "AdventureWorks_Returns.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Products.csv",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Products.csv",
         "filename": "AdventureWorks_Products.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Sales_2015",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2015",
         "filename": "AdventureWorks_Sales_2015.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Sales_2016",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2016",
         "filename": "AdventureWorks_Sales_2016.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Sales_2017",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2017",
         "filename": "AdventureWorks_Sales_2017.csv"
     },
     {
-        "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Territories.csv",
+        "relative_url":"/AzureProject/refs/heads/main/Data/AdventureWorks_Territories.csv",
         "filename": "AdventureWorks_Territories.csv"
     }
 
