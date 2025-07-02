@@ -4,7 +4,7 @@
         "filename": "AdventureWorks_Calendar.csv"
     },
     {
-        "relative_url":"AzureProject/brefs/heads/main/Data/AdventureWorks_Customers.csv",
+        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Customers.csv",
         "filename": "AdventureWorks_Customers.csv"
     },
     {
