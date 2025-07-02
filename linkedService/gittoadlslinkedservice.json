@@ -1,0 +1,12 @@
+{
+	"name": "gittoadlslinkedservice",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/Sarthak-Singh-sys/AzureProject/tree/main/Data",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
