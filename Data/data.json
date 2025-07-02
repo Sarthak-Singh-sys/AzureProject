@@ -25,15 +25,15 @@
     },
     {
         "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Sales_2015",
-        "filename": "AdventureWorks_Sales_2015"
+        "filename": "AdventureWorks_Sales_2015.csv"
     },
     {
         "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Sales_2016",
-        "filename": "AdventureWorks_Sales_2016"
+        "filename": "AdventureWorks_Sales_2016.csv"
     },
     {
         "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Sales_2017",
-        "filename": "AdventureWorks_Sales_2017"
+        "filename": "AdventureWorks_Sales_2017.csv"
     },
     {
         "relative_url":"/AzureProject/blob/main/Data/AdventureWorks_Territories.csv",
