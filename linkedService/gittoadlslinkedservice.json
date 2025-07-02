@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/Sarthak-Singh-sys",
+			"url": "https://raw.githubusercontent.com/Sarthak-Singh-sys",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
