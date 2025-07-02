@@ -24,15 +24,15 @@
         "filename": "AdventureWorks_Products.csv"
     },
     {
-        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2015",
+        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
         "filename": "AdventureWorks_Sales_2015.csv"
     },
     {
-        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2016",
+        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
         "filename": "AdventureWorks_Sales_2016.csv"
     },
     {
-        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2017",
+        "relative_url":"AzureProject/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
         "filename": "AdventureWorks_Sales_2017.csv"
     },
     {
